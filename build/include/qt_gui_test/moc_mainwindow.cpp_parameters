@@ -1,0 +1,5 @@
+-I/home/myungw00/ROS2/Qt_ws/src/qt_gui_test
+-I/home/myungw00/ROS2/Qt_ws/src/qt_gui_test/build
+-o
+/home/myungw00/ROS2/Qt_ws/src/qt_gui_test/build/include/qt_gui_test/moc_mainwindow.cpp
+/home/myungw00/ROS2/Qt_ws/src/qt_gui_test/include/qt_gui_test/mainwindow.h

@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/myungw00/ROS2/Qt_ws/src/qt_gui_test/build",
+  "command": "/usr/bin/c++ -DDEFAULT_RMW_IMPLEMENTATION=rmw_cyclonedds_cpp -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DRCUTILS_ENABLE_FAULT_INJECTION -I/home/myungw00/ROS2/Qt_ws/src/qt_gui_test/build -I/home/myungw00/ROS2/Qt_ws/src/qt_gui_test -I/home/myungw00/ROS2/Qt_ws/src/qt_gui_test/build/qt_gui_test_autogen/include -I/home/myungw00/ROS2/Qt_ws/src/qt_gui_test/include/qt_gui_test -isystem /opt/ros/galactic/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -g -std=gnu++17 -Wall -Wextra -Wpedantic -fPIC -o CMakeFiles/qt_gui_test.dir/qt_gui_test_autogen/mocs_compilation.cpp.o -c /home/myungw00/ROS2/Qt_ws/src/qt_gui_test/build/qt_gui_test_autogen/mocs_compilation.cpp",
+  "file": "/home/myungw00/ROS2/Qt_ws/src/qt_gui_test/build/qt_gui_test_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/qt_gui_test.dir/qt_gui_test_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/myungw00/ROS2/Qt_ws/src/qt_gui_test/build",
+  "command": "/usr/bin/c++ -DDEFAULT_RMW_IMPLEMENTATION=rmw_cyclonedds_cpp -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DRCUTILS_ENABLE_FAULT_INJECTION -I/home/myungw00/ROS2/Qt_ws/src/qt_gui_test/build -I/home/myungw00/ROS2/Qt_ws/src/qt_gui_test -I/home/myungw00/ROS2/Qt_ws/src/qt_gui_test/build/qt_gui_test_autogen/include -I/home/myungw00/ROS2/Qt_ws/src/qt_gui_test/include/qt_gui_test -isystem /opt/ros/galactic/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -g -std=gnu++17 -Wall -Wextra -Wpedantic -fPIC -o CMakeFiles/qt_gui_test.dir/src/main.cpp.o -c /home/myungw00/ROS2/Qt_ws/src/qt_gui_test/src/main.cpp",
+  "file": "/home/myungw00/ROS2/Qt_ws/src/qt_gui_test/src/main.cpp",
+  "output": "CMakeFiles/qt_gui_test.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/myungw00/ROS2/Qt_ws/src/qt_gui_test/build",
+  "command": "/usr/bin/c++ -DDEFAULT_RMW_IMPLEMENTATION=rmw_cyclonedds_cpp -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DRCUTILS_ENABLE_FAULT_INJECTION -I/home/myungw00/ROS2/Qt_ws/src/qt_gui_test/build -I/home/myungw00/ROS2/Qt_ws/src/qt_gui_test -I/home/myungw00/ROS2/Qt_ws/src/qt_gui_test/build/qt_gui_test_autogen/include -I/home/myungw00/ROS2/Qt_ws/src/qt_gui_test/include/qt_gui_test -isystem /opt/ros/galactic/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -g -std=gnu++17 -Wall -Wextra -Wpedantic -fPIC -o CMakeFiles/qt_gui_test.dir/src/mainwindow.cpp.o -c /home/myungw00/ROS2/Qt_ws/src/qt_gui_test/src/mainwindow.cpp",
+  "file": "/home/myungw00/ROS2/Qt_ws/src/qt_gui_test/src/mainwindow.cpp",
+  "output": "CMakeFiles/qt_gui_test.dir/src/mainwindow.cpp.o"
+},
+{
+  "directory": "/home/myungw00/ROS2/Qt_ws/src/qt_gui_test/build",
+  "command": "/usr/bin/c++ -DDEFAULT_RMW_IMPLEMENTATION=rmw_cyclonedds_cpp -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DRCUTILS_ENABLE_FAULT_INJECTION -I/home/myungw00/ROS2/Qt_ws/src/qt_gui_test/build -I/home/myungw00/ROS2/Qt_ws/src/qt_gui_test -I/home/myungw00/ROS2/Qt_ws/src/qt_gui_test/build/qt_gui_test_autogen/include -I/home/myungw00/ROS2/Qt_ws/src/qt_gui_test/include/qt_gui_test -isystem /opt/ros/galactic/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -g -std=gnu++17 -Wall -Wextra -Wpedantic -fPIC -o CMakeFiles/qt_gui_test.dir/include/qt_gui_test/moc_mainwindow.cpp.o -c /home/myungw00/ROS2/Qt_ws/src/qt_gui_test/build/include/qt_gui_test/moc_mainwindow.cpp",
+  "file": "/home/myungw00/ROS2/Qt_ws/src/qt_gui_test/build/include/qt_gui_test/moc_mainwindow.cpp",
+  "output": "CMakeFiles/qt_gui_test.dir/include/qt_gui_test/moc_mainwindow.cpp.o"
+}
+]

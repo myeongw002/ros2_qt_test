@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>qt_gui_test</name>
+  <version>0.1.0</version>
+  <description>Qt5 Widgets GUI for ROS2</description>
+
+  <maintainer email="your_email@example.com">Your Name</maintainer>
+  <license>Apache-2.0</license>
+
+  <!-- ROS2 빌드 도구 -->
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <!-- ROS2 관련 패키지 -->
+  <build_depend>rclcpp</build_depend>
+  <exec_depend>rclcpp</exec_depend>
+
+  <build_depend>std_msgs</build_depend>
+  <exec_depend>std_msgs</exec_depend>
+
+  <!-- Qt5 관련 패키지 -->
+  <build_depend>qtbase5-dev</build_depend>
+  <exec_depend>qtbase5-dev</exec_depend>
+
+  <build_depend>qttools5-dev</build_depend>
+  <exec_depend>qttools5-dev</exec_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
+
