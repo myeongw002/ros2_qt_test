@@ -12,7 +12,7 @@ MainWindow::MainWindow(QWidget *parent)
     node = rclcpp::Node::make_shared("qt_gui_node");
     
     // ROS2 Publisher
-    publisher = node->create_publisher<std_msgs::msg::String>("/chatter", 10);
+    publisher = node->create_publisher<std_msgs::msg::String>("/chatter_pub", 10);
 
     // ROS2 Subscriber
     subscriber = node->create_subscription<std_msgs::msg::String>(

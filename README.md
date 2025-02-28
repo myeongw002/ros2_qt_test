@@ -7,8 +7,8 @@ This project provides a Qt-based GUI example for a ROS2 workspace.
 - Basic GUI components for quick testing
 
 ## Topics
-- Publishes to “/qt_gui_cmd” for sending commands
-- Subscribes to “/qt_gui_status” for receiving status updates
+- Publishes to “/chatter_pub” for sending commands
+- Subscribes to “/chatter_sub” for receiving status updates
 - Enables real-time GUI interaction with ROS2 messages
 
 ## Build and Run
